@@ -1,0 +1,18 @@
+{
+	"bug": [
+		{
+			"name": "String",
+			"habitat": "String",
+			"times": [
+				{
+					"start": "int",
+					"end":"int"
+				}
+			],
+			"northernMonths": [
+				"bool * 12"
+			],
+			"southernMonths": ["bool * 12"]
+		}
+	]
+}

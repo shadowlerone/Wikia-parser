@@ -1,0 +1,1633 @@
+=== Tools ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Size
+!Obtained From
+!data-sort-type="number" | Sell Price
+|-
+|[[Axe|Flimsy axe]]
+|[[File:NH-Flimsy_axe.png|50px|center]]
+|5x {{NH-Tree branch}}<br />1x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|220 Bells
+|-
+|[[Axe|Stone axe]]
+|[[File:NH-Stone_axe.png|50px|center]]
+|1x [[File:NH-Flimsy axe.png|18px]][[Flimsy tools|Flimsy]] [[Axe]]<br />3x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Pretty-Good Tools]] Recipes)
+|560 Bells
+|-
+|[[Axe]]
+|[[File:NH-Axe.png|50px|center]]
+|1x [[File:NH-Flimsy axe.png|18px]][[Flimsy tools|Flimsy]] [[Axe]]<br />3x {{NH-Wood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Pretty-Good Tools]] Recipes)
+|625 Bells
+|-
+|[[Golden axe]]
+|[[File:NH-Golden axe.png|50px|center]]
+|1x [[File:NH-Axe.png|18px]][[Axe]]<br />1x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Break axes 100 times
+|
+|-
+|[[Shovel|Flimsy shovel]]
+|[[File:NH-Flimsy_shovel.png|50px|center]]
+|5x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Blathers]]
+|200 Bells
+|-
+|[[Shovel]]
+|[[File:NH-Shovel.png|50px|center]]
+|1x [[File:NH-Flimsy shovel.png|18px]][[Flimsy tools|Flimsy]] [[Shovel]]<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Pretty-Good Tools]] Recipes)
+|600 Bells
+|-
+|[[Shovel|Golden shovel]]
+|[[File:NH-Golden shovel.png|50px|center]]
+|1x [[File:NH-Shovel.png|18px]][[Shovel]]<br />1x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Assist [[Gulliver]] 30 times
+|
+|-
+|[[Flimsy fishing rod]]
+|[[File:NH-Flimsy_fishing_rod.png|50px|center]]
+|5x {{NH-Tree branch}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (first DIY workshop)
+|100 Bells
+|-
+|[[Fishing rod]]
+|[[File:NH-Fishing_rod.png|50px|center]]
+|1x [[File:NH-Flimsy fishing rod.png|18px]][[Flimsy tools|Flimsy]] [[Fishing Rod]]<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Pretty-Good Tools]] Recipes)
+|600 Bells
+|-
+|[[Fishing rod|Golden rod]]
+|[[File:NH-Golden rod.png|50px|center]]
+|1x [[File:NH-Fishing rod.png|18px]][[Fishing rod]]<br />1x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Complete the fish section of the critterpedia
+|
+|-
+|[[Flimsy net]]
+|[[File:NH-Flimsy_net.png|50px|center]]
+|5x {{NH-Tree branch}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (first DIY workshop)
+|100 Bells
+|-
+|[[Net]]
+|[[File:NH-Net.png|50px|center]]
+|1x [[File:NH-Flimsy net.png|18px]][[Flimsy tools|Flimsy]] [[Net]]<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Pretty-Good Tools]] Recipes)
+|600 Bells
+|-
+|[[Net|Golden net]]
+|[[File:NH-Golden net.png|50px|center]]
+|1x [[File:NH-Net.png|18px]][[Net]]<br />1x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Complete the bug section of the critterpedia
+|
+|-
+|[[Watering can|Flimsy watering can]]
+|[[File:NH-Flimsy_watering_can.png|50px|center]]
+|5x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|200 Bells
+|-
+|[[Watering can]]
+|[[File:NH-Watering_can.png|50px|center]]
+|1x [[File:NH-Flimsy watering can.png|18px]][[Flimsy tools|Flimsy]] [[Watering Can]]<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Pretty-Good Tools]] Recipes)
+|600 Bells
+|-
+|[[Watering can|Golden watering can]]
+|[[File:NH-Golden watering can.png|50px|center]]
+|1x [[File:NH-Watering can.png|18px]][[Watering can]]<br />1x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Attain a 5-star town rating
+|
+|-
+|[[Slingshot]]
+|[[File:NH-Slingshot.png|50px|center]]
+|5x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Timmy]]
+|225 Bells
+|-
+|[[Slingshot|Golden slingshot]]
+|[[File:NH-Golden slingshot.png|50px|center]]
+|1x [[File:NH-Golden slingshot.png|18px]][[Slingshot]]<br />1x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Shoot balloons 100 times
+|
+|-
+|[[Tools (New Horizons)#Navigation tools|Vaulting pole]]
+|[[File:NH-Vaulting_pole.png|50px|center]]
+|5x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Blathers]]
+|600 Bells
+|-
+|[[Tools (New Horizons)#Navigation tools|Ladder]]
+|[[File:NH-Ladder.png|50px|center]]
+|4x {{NH-Wood}}<br />4x {{NH-Hardwood}}<br />4x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after placing 2nd house plot
+|1,440 Bells
+|-
+|[[Tools (New Horizons)#Miscellaneous|Star wand]]
+|[[File:NH-Star_wand.png|50px|center]]
+|1x [[Star fragment|large star fragment]]<br />3x [[star fragment]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Celeste]] Wandering Island
+|
+|-
+|[[Tools (New Horizons)#Miscellaneous|Bamboo wand]]
+|[[File:NH-Bamboo_wand.png|50px|center]]
+|6x {{NH-Young spring bamboo}}<br />3x [[star fragment]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+[[Balloon]]
+|}
+
+=== Title Needed ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Size
+!Obtained From
+! data-sort-type="number" | Sell Price
+|-
+|[[Acoustic guitar]]
+|[[File:NH-Acoustic_guitar.png|50px|center]]
+|8x {{NH-Softwood}}<br />3x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|3,210 Bells
+|-
+|[[Apple chair]]
+|[[File:NH-Apple chair.png|50px|center]]
+|10x [[apple]]<br />4x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Aries rocking chair]]
+|[[File:NH-Aries_rocking_chair.png|50px|center]]
+|3x [[star fragment]]
+|2x [[Aries star fragment]]
+|1x {{NH-Gold nugget}}
+|5x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Celeste]]
+|
+|-
+|[[Bamboo basket]]
+|[[File:NH-Bamboo_basket.png|50px|center]]
+|7x {{NH-Bamboo piece}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|1,120 Bells
+|-
+|[[Bamboo doll]]
+|[[File:NH-Bamboo_doll.png|50px|center]]
+|6x {{NH-Young spring bamboo}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|2,400 Bells
+|-
+|[[Bamboo noodle slide]]
+|[[File:NH-Bamboo_noodle_slide.png|50px|center]]
+|7x {{NH-Young spring bamboo}}<br />3x {{NH-Wood}}
+|[[File:NH3.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|3,160 Bells
+|-
+|[[Bamboo stopblock]]
+|[[File:NH-Bamboo_stopblock.png|50px|center]]
+|3x {{NH-Bamboo piece}}
+|[[File:NH1.0x0.5sq.jpg|centre|thumb|31x31px]]
+|[[villager|Island resident]]
+|
+|-
+|[[Barbell]]
+|[[File:NH-Barbell.png|50px|center]]
+|10x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|7,500 Bells
+|-
+|[[Barrel]]
+|[[File:NH-Barrel.png|50px|center]]
+|5x {{NH-Wood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|2,100 Bells
+|-
+|[[Beekeeper’s hive]]
+|[[File:NH-Beekeeper's_hive.png|50px|center]]
+|3x [[wasp nest]]<br />5x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[villager|Island resident]]
+|
+|-
+|[[Birdbath]]
+|[[File:NH-Birdbath.png|50px|center]]
+|6x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|400 Bells
+|-
+|[[Birdhouse]]
+|[[File:NH-Birdhouse.png|50px|center]]
+|2x {{NH-Wood}}<br />5x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|840 Bells
+|-
+|[[Bonfire]]
+|[[File:NH-Bonfire.png|50px|center]]
+|1x {{NH-Furniture icon}}[[campfire]]<br />10x {{NH-Wood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|1,230 Bells
+|-
+|[[Brick oven]]
+|[[File:NH-Brick oven.png|50px|center]]
+|8x {{NH-Clay}}<br />2x {{NH-Iron nugget}}<br />6x {{NH-Wood}}
+|[[File:NH1.5x1.5sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]]
+|3,820 Bells
+|-
+|[[Campfire]]
+|[[File:NH-Campfire.png|50px|center]]
+|3x {{NH-Tree branch}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (first DIY workshop)
+|30 Bells
+|-
+|[[Cardboard bed]]
+|[[File:NH-Cardboard bed.png|centre|thumb|50x50px]]
+|4x {{NH-Furniture icon}}[[cardboard box]]
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Cardboard Chair]]
+|
+|1x {{NH-Furniture icon}}[[cardboard box]]
+|
+|
+|
+|-
+|[[Cardboard sofa]]
+|[[File:NH-Cardboard_sofa.png|50px|center]]
+|2x {{NH-Furniture icon}}[[cardboard box]]
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Cherry speakers]]
+|[[File:NH-Cherry_speakers.png|50px|center]]
+|10x [[fruit|cherry]]<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if the native fruit is cherries
+|
+|-
+|[[Clackercart]]
+|[[File:NH-Clackercart.png|50px|center]]
+|2x {{NH-Hardwood}}<br />6x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Clothesline|<nowiki/>]]<br />[[Tiki torch|Clothesline]]
+|[[File:NH-Clothesline.png|50px|center]]
+|10x {{NH-Tree branch}}
+|[[File:NH2.0x0.5sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|100 Bells
+|-
+|[[Drinking fountain]]
+|[[File:NH-Drinking_fountain.png|50px|center]]
+|8x {{NH-Stone}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] ([[Nook Miles]])
+|
+|-
+|[[Fountain]]
+|[[File:NH-Fountain.png|50px|center]]
+|1x {{NH-Furniture icon}}[[Drinking fountain]]<br />20x {{NH-Stone}}<br />8x {{NH-Iron nugget}}
+|[[File:NH3.0x3.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (3,000 [[Nook Miles]])
+|
+|-
+|[[Garden wagon]]
+|[[File:NH-Garden_wagon.png|50px|center]]
+|3x [[flowers#hyacinth|white hyacinths]]<br />3x [[flowers#cosmos|red cosmos]]<br />3x [[flower#rose|yellow roses]]<br />8x {{NH-Wood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Gong]]
+|[[File:NH-Gong.png|50px|center]]
+|6x {{NH-Iron nugget}}<br />5x {{NH-Wood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Green-leaf pile]]
+|[[File:NH-Green-leaf pile.png|50px|center]]
+|1x {{NH-Young spring bamboo}}<br />10x {{NH-Clump of weeds}}
+|[[File:NH1.5x1.5sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|600 Bells
+|-
+|[[Hay bed]]
+|[[File:NH-Hay bed.png|50px|center]]
+|1x {{NH-Young spring bamboo}}<br />10x {{NH-Clump of weeds}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|400 Bells
+|-
+|[[Hearth]]
+|[[File:NH-Hearth.png|50px|center]]
+|2x {{NH-Bamboo piece}}<br />5x {{NH-Iron nugget}}<br />4x {{NH-Clay}}<br />5x {{NH-Hardwood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]]
+|5,470 Bells
+|-
+|[[Iron garden bench]]
+|[[File:NH-Iron_garden_bench.png|50px|center]]
+|8x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|6,000 Bells
+|-
+|[[Iron garden chair]]
+|[[File:NH-Iron_garden_chair.png|50px|center]]
+|3x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits<br />[[Message in a bottle]]
+|2,250 Bells
+|-
+|[[Iron garden table]]
+|[[File:NH-Iron_garden_table.png|50px|center]]
+|5x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|3,750 Bells
+|-
+|[[Iron worktable]]
+|[[File:NH-Iron_worktable.png|50px|center]]
+|10x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[villager|Island resident]]<br />[[Message in a bottle]]
+|
+|-
+|[[Iron Shelf]]
+|
+|14x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|thumb|31x31px]]
+|[[Villager|Island resident]]
+|10,500 Bells
+|-
+|[[Ironwood chair]]
+|[[File:NH-Ironwood_chair.png|50px|center]]
+|3x {{NH-Wood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Ironwood bed]]
+|[[File:NH-Ironwood_bed.png|50px|center]]
+|20x {{NH-Wood}}<br />10x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Ironwood kitchenette]]
+|[[File:NH-Ironwood kitchenette.png|50px|center]]
+|4x {{NH-Wood}}<br />3x {{NH-Iron nugget}}<br />1x {{NH-Furniture icon}}[[ironwood dresser]]<br />1x {{NH-Furniture icon}}[[cutting board]]
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]]
+|
+|-
+|[[Ironwood low table]]
+|[[File:NH-Ironwood_low_table.png|50px|center]]
+|6x {{NH-Wood}}<br />4x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|3,720 Bells
+|-
+|[[Juicy-apple TV]]
+|[[File:NH-Juicy-apple TV.png|50px|center]]
+|10x [[apple]]<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Kettle bathtub]]
+|[[File:NH-Kettle_bathtub.png|50px|center]]
+|8x {{NH-Iron nugget}}<br />2x {{NH-Wood}}<br />1x {{NH-Furniture icon}}[[campfire]]
+|[[File:NH1.5x1.5sq.jpg|centre|thumb|31x31px]]
+|
+|6,270 Bells
+|-
+|[[Large cardboard boxes]]
+|
+|5x [[cardboard box]]
+|
+|
+|
+|-
+|[[Log bed]]
+|[[File:NH-Log_bed.png|50px|center]]
+|30x {{NH-Hardwood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|3,600 Bells
+|-
+|[[Log bench]]
+|[[File:NH-Log_bench.png|50px|center]]
+|5x {{NH-Hardwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|600 bells
+|-
+|[[Log dining table]]
+|[[File:NH-Log_dining_table.png|50px|center]]
+|15x {{NH-Hardwood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|1,800 bells
+|-
+|[[Log garden lounge]]
+|[[File:NH-Log garden lounge.png|50px|center]]
+|12x {{NH-Hardwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|1,440 Bells
+|-
+|[[Log round table]]
+|[[File:NH-Log round table.png|centre|thumb|50x50px]]
+|15x {{NH-Hardwood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Log sofa]]
+|[[File:NH-Log sofa.png|50px|center]]
+|8x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|960 Bells
+|-
+|[[Log stakes]]
+|[[File:NH-Log stakes.png|50px|center]]
+|3x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|360 Bells
+|-
+|[[Log stool]]
+|[[File:NH-Log stool.png|50px|center]]
+|4x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|480 Bells
+|-
+|[[Manhole cover]]
+|[[File:NH-Manhole_cover.png|50px|center]]
+|3x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Matryoshka]]
+|[[File:NH-Matryoshka.png|50px|center]]
+|5x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|600 Bells
+|-
+|[[Medium cardboard boxes]]
+|[[File:NH-Medium_cardboard_boxes.png|50px|center]]
+|4x {{NH-Furniture icon}}[[cardboard box]]
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Mini DIY workbench]]
+|[[File:NH-Mini DIY workbench.png|50px|center]]
+|3x {{NH-Wood}}<br />3x {{NH-Hardwood}}<br />3x {{NH-Softwood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Test Your DIY Skills]]
+|2,580 Bells
+|-
+|[[Mountain standee]]
+|[[File:NH-Mountain_standee.png|50px|center]]
+|4x {{NH-Wood}}<br />5x {{NH-Softwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|1,080 Bells
+|-
+|[[Music stand]]
+|[[File:NH-Music_stand.png|50px|center]]
+|8x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|960 Bells
+|-
+|[[Natural garden chair]]
+|[[File:NH-Natural garden chair.png|50px|center]]
+|6x {{NH-Hardwood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]<br />[[Message in a bottle]]
+|2,220 Bells
+|-
+|[[Natural garden table]]
+|[[File:NH-Natural garden table.png|50px|center]]
+|9x {{NH-Hardwood}}<br />3x {{NH-Iron nugget}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|3,330 Bells
+|-
+|[[Natural square table]]
+|[[File:NH-Natural_square_table.png|50px|center]]
+|4x {{NH-Hardwood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|1,980 Bells
+|-
+|[[Orange end table]]
+|[[File:NH-Orange_end_table.png|50px|center]]
+|10x [[orange]]<br />4x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (if native fruit is oranges)
+|
+|-
+|[[Outdoor picnic set]]
+|[[File:NH-Outdoor_picnic_set.png|50px|center]]
+|10x [[cherry-blossom petal]]
+|[[File:NH1.5x1.5sq.jpg|centre|thumb|31x31px]]
+|[[Isabelle]] during morning announcement while talking about cherry blossom season
+|
+|-
+|[[Palm-tree lamp]]
+|[[File:NH-Palm-tree_lamp.png|50px|center]]
+|4x [[coconut]]<br />4x {{NH-Wood}}<br />4x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|3,280 Bells
+|-
+|[[Peach chair]]
+|[[File:NH-Peach_chair.png|50px|center]]
+|10x [[peach]]<br />5x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (if native fruit is peaches)
+|
+|-
+|[[Pear bed]]
+|[[File:NH-Pear_bed.png|50px|center]]
+|10x [[pear]]<br />6x {{NH-Softwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if the native fruit is pears
+|2,720 Bells
+|-
+|[[Pear wardrobe]]
+|[[File:NH-Pear_wardrobe.png|50px|center]]
+|10x [[pear]]<br />5x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if the native fruit is pears<br />[[Villager|Island resident]]
+|2,600 Bells
+|-
+|[[Plain sink]]
+|[[File:NH-Plain sink.png|50px|center]]
+|6x {{NH-Wood}}<br />4x {{NH-Clay}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]]
+|2,270 Bells
+|-
+|[[Pond stone]]
+|[[File:NH-Pond_stone.png|50px|center]]
+|10x {{NH-Stone}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Rocking chair]]
+|[[File:NH-Rocking chair.png|50px|center]]
+|3x {{NH-Wood}}<br />5x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|960 Bells
+|-
+|[[Sauna heater]]
+|[[File:NH-Sauna heater.png|50px|center]]
+|6x {{NH-Stone}}<br />3x {{NH-Iron nugget}}<br />3x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Scattered papers]]
+|
+|1x {{NH-Furniture icon}} [[document stack]]
+|[[File:NH1.5x1.5sq.jpg|thumb|31x31px]]
+|[[Villager|Island resident]]
+|
+|-
+|[[Shell bed]]
+|
+|5x [[giant clam]] 3x [[clay]] 4x [[stone]]
+|
+|
+|
+|-
+|[[Shell fountain]]
+|[[File:NH-Shell_fountain.png|50px|center]]
+|1x [[giant clam]]<br />2x {{NH-Stone}}
+|[[File:NH1.5x1.5sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|9,450 Bells
+|-
+|[[Shell fountain]]
+|[[File:NH-Shell_stool.png|50px|center]]
+|5x [[cowrie]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Simple DIY workbench]]
+|[[File:NH-Simple DIY workbench.png|50px|center]]
+|5x {{NH-Hardwood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.5x1.5sq.jpg|centre|thumb|31x31px]]
+|[[Mailbox|Mail]] from Nintendo after the first night on the island<br />[[Message in a bottle]]
+|1,350 Bells
+|-
+|[[Simple well]]
+|[[File:NH-Simple_well.png|50px|center]]
+|15x {{NH-Stone}}<br />1x [[flimsy shovel]]
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (2,000 [[Nook Miles]])
+|
+|-
+|[[Sleigh]]
+|[[File:NH-Sleigh.png|50px|center]]
+|8x {{NH-Wood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Standard umbrella stand]]
+|[[File:NH-Standard umbrella stand.png|50px|center]]
+|3x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Stone stool]]
+|[[File:NH-Stone stool.png|50px|center]]
+|3x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|450 Bells
+|-
+|[[Stone table]]
+|[[File:NH-Stone table.png|50px|center]]
+|8x {{NH-Stone}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+[[Villager|Island resident]]
+|1,200 Bells
+|-
+|[[Stone tablet]]
+|[[File:NH-Stone_tablet.png|50px|center]]
+|12x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (800 [[Nook Miles]])
+|
+|-
+|[[Swinging bench]]
+|[[File:NH-Swinging bench.png|50px|center]]
+|5x {{NH-Wood}}<br />7x {{NH-Softwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|1,440 Bells
+|-
+|[[Tea table]]
+|[[File:NH-Tea_table.png|50px|center]]
+|12x {{NH-Hardwood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|1,440 Bells
+|-
+|[[Terrarium]]
+|[[File:NH-Terrarium.png|50px|center]]
+|12x {{NH-Clump of weeds}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Tiki torch]]
+|[[File:NH-Tiki torch.png|50px|center]]
+|5x {{NH-Tree branch}}<br />5x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|650 Bells
+|-
+|[[Tiny library]]
+|[[File:NH-Tiny_library.png|50px|center]]
+|5x {{NH-Wood}}<br />1x [[book]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Tire stack]]
+|[[File:NH-Tire stack.png|50px|center]]
+|3x [[trash|old tire]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Fishing up an old tire
+|
+|-
+|[[Tire toy]]
+|[[File:NH-Tire toy.png|50px|center]]
+|1x [[Trash|old tire]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Fishing up an old tire
+|20 Bells
+|-
+|[[Tree standee]]
+|[[File:NH-Tree_standee.png|50px|center]]
+|5x {{NH-Wood}}<br />8x {{NH-Softwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|1,560 Bells
+|-
+|[[Water pump]]
+|[[File:NH-Water pump.png|50px|center]]
+|2x {{NH-Iron nugget}}<br />6x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits<br />[[Message in a bottle]]
+|2,700 Bells
+|-
+|[[Wave breaker]]
+|[[File:NH-Wave_breaker.png|50px|center]]
+|10x {{NH-Stone}}<br />10x {{NH-Clay}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (2,000 [[Nook Miles]])
+|
+|-
+|[[Wild log bench]]
+|[[File:NH-Wild log bench.png|50px|center]]
+|8x {{NH-Hardwood}}<br />3x {{NH-Softwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]] from Nook's Cranny
+|
+|-
+|[[Wooden-block bookshelf]]
+|[[File:NH-Wooden-block bookshelf.png|50px|center]]
+|1x [[wooden-block toy]]<br />3x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]]
+|720 Bells
+|-
+|[[Wooden-block bench]]
+|[[File:NH-Wooden-block_bench.png|50px|center]]
+|1x [[wooden-block toy]]<br />4x {{NH-Softwood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|840 Bells
+|-
+|[[Wooden-block chair]]
+|[[File:NH-Wooden-block chair.png|50px|center]]
+|1x [[wooden-block toy]]<br />3x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|720 Bells
+|-
+|[[Wooden-block stereo]]
+|[[File:NH-Wooden-block stereo.png|50px|center]]
+|1x [[wooden-block toy]]<br />5x {{NH-Softwood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|2,460 Bells
+|-
+|[[Wooden-block stool]]
+|[[File:NH-Wooden-block_stool.png|50px|center]]
+|1x [[wooden-block toy]]<br />2x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|600 Bells
+|-
+|[[Wooden-block table]]
+|[[File:NH-Wooden-block table.png|50px|center]]
+|1x [[wooden-block toy]]<br />8x {{NH-Softwood}}
+|[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|1,320 Bells
+|-
+|[[Wooden-plank sign]]
+|
+|5x {{NH-Hardwood}}
+|[[File:NH2.0x1.0sq.jpg|thumb|31x31px]]
+|[[Message in a bottle]]
+|600 Bells
+|-
+|[[Wooden chair]]
+|[[File:NH-Wooden chair.png|50px|center]]
+|6x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|720 Bells
+|-
+|[[Wooden end table]]
+|[[File:NH-Wooden_end_table.png|50px|center]]
+|8x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Letter from [[mom]]
+|960 Bells
+|-
+|[[Wooden full-length mirror]]
+|[[File:NH-Wooden full-length mirror.png|50px|center]]
+|5x {{NH-Wood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|1,350 Bells
+|-
+|[[Wooden low table]]
+|[[File:NH-Wooden_low_table.png|50px|center]]
+|10x {{NH-Wood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|1,200 Bells
+|-
+|[[Wooden mini table]]
+|[[File:NH-Wooden mini table.png|50px|center]]
+|6x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|720 Bells
+|-
+|[[Wooden simple bed]]
+|[[File:NH-Wooden simple bed.png|50px|center]]
+|18x {{NH-Wood}}
+|[[File:NH2.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|2,160 Bells
+|-
+|[[Wooden stool]]
+|[[File:NH-Wooden_stool.png|50px|center]]
+|4x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|480 Bells
+|-
+|[[Wooden wardrobe]]
+|[[File:NH-Wooden wardrobe.png|50px|center]]
+|12x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (Customization Workshop)
+|1,440 Bells
+|-
+|[[Bamboo bench]]
+|[[File:NH-Bamboo_bench.png|50px|center]]
+|8x {{NH-Bamboo piece}}
+|[[File:NH2.0x1.0sq.jpg|thumb|31x31px]]
+|[[Balloon]]
+|1,280 Bells
+|-
+|[[Rocking horse]]
+|[[File:NH-Rocking_horse.png|50px|center]]
+|5x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Villager|Island resident]]
+|600 Bells
+|-
+|[[Tall garden rock]]
+|[[File:NH-Tall_garden_rock.png|50px|center]]
+|60x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Balloon]]
+|9,000 Bells
+|-
+|[[Wooden bucket]]
+|[[File:NH-Wooden_bucket.png|50px|center]]
+|3x {{NH-Wood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Villager|Island resident]]
+|1,110 Bells
+|-
+|[[Garden bench]]
+|[[File:NH-Garden_bench.png|50px|center]]
+|12x {{NH-Wood}}<br />4x {{NH-Iron nugget}}
+|[[File:NH2.0x1.0sq.jpg|thumb|31x31px]]
+|[[Villager|Island resident]]
+|4,440 Bells
+|}
+
+=== Miscellaneous ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Size
+!Obtained From
+! data-sort-type="currency" | Sell Price
+|-
+|[[Aroma holder]]
+|[[File:NH-Aroma_holder.png|50px|center]]
+|4x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|600 Bells
+|-
+|[[Bamboo drum]]
+|[[File:NH-Bamboo drum.png|centre|thumb|50x50px]]
+|3x {{NH-Bamboo piece}}<br />2x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|720 Bells
+|-
+|[[Bamboo-shoot lamp]]
+|[[File:NH-Bamboo shoot lamp.png|centre|thumb|50x50px]]
+|4x {{NH-Young spring bamboo}}<br />5x [[Bamboo|bamboo shoot]]<br />4x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|4,900 Bells
+|-
+|[[Classic pitcher]]
+|[[File:NH-Classic_pitcher.png|50px|center]]
+|4x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|800 Bells
+|-
+|[[Coconut juice]]
+|[[File:NH-Coconut_juice.png|50px|center]]
+|1x [[coconut]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|500 Bells
+|-
+|[[Decoy duck]]
+|[[File:NH-Decoy_duck.png|50px|center]]
+|4x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|480 Bells
+|-
+|[[Firewood]]
+|[[File:NH-Firewood.png|50px|center]]
+|8x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Frying pan]]
+|[[File:NH-Frying pan.png|50px|center]]
+|2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|1,500 Bells
+|-
+|[[Golden dung beetle]]
+|[[File:NH-Golden dung beetle.png|centre|thumb|50x50px]]
+|3x {{NH-Gold nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|30,000 Bells
+|-
+|[[Old-fashioned washtub]]
+|[[File:NH-Old-fashioned washtub.png|50px|center]]
+|3x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|360 Bells
+|-
+|[[Peach surprise box]]
+|[[File:NH-Peach_surprise_box.png|50px|center]]
+|10x [[peach]]<br />4x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (if native [[fruit]] is peaches)
+|
+|-
+|[[Pot]]
+|[[File:NH-Pot.png|50px|center]]
+|5x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits
+|1,000 Bells
+|-
+|[[Recycled-can thumb piano]]
+|[[File:NH-Recycled-can thumb piano.png|50px|center]]
+|1x [[Trash#Empty_Can|empty can]]<br />1x {{NH-Wood}}<br />1x {{Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Fishing up cans
+|890 Bells
+|-
+|[[Ringtoss]]
+|[[File:NH-Ringtoss.png|50px|center]]
+|2x {{NH-Wood}}<br />2x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|480 Bells
+|-
+|[[Robot hero]]
+|[[File:NH-Robot_hero.png|50px|center]]
+|1x [[rocket]]<br />1x [[gold armor]]<br />30x [[rusted part]]<br />90x {{NH-Iron nugget}}<br />10x {{NH-Gold nugget}}
+|
+|[[Nook Stop]] (5000 [[Nook Miles]])
+|unknown
+|-
+|[[Shell speaker]]
+|[[File:NH-Shell speaker.png|50px|center]]
+|3x [[Shells#Conch|conch]]<br />1x {{NH-Wood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Steamer-basket set]]
+|[[File:NH-Steamer-basket set.png|50px|center]]
+|6x {{NH-Young spring bamboo}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|2,400 Bells
+|-
+|[[Succulent plant]]
+|[[File:NH-Succulent plant.png|50px|center]]
+|10x {{NH-Clump of weeds}}<br />1x [[Trash|empty can]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Fishing up an empty can
+|220 Bells
+|-
+|[[Trash bags]]
+|[[File:NH-Trash bags.png|50px|center]]
+|1x [[Trash#Empty_Can|empty can]]<br />1x [[Trash#Boot|boot]]<br />1x [[Trash#Tire|old tire]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Fishing up trash
+|
+|-
+|[[Unglazed dish set]]
+|[[File:NH-Unglazed_dish_set.png|50px|center]]
+|3x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Wooden table mirror]]
+|[[File:NH-Wooden_table_mirror.png|50px|center]]
+|3x {{NH-Wood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|1,110 Bells
+|-
+|[[Wooden-block toy]]
+|[[File:NH-Wooden-block toy.png|50px|center]]
+|3x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|360 Bells
+|-
+|[[Wooden fish]]
+|[[File:NH-Wooden fish.png|50px|center]]
+|3x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]]
+|360 Bells
+|-
+|[[Wooden toolbox]]
+|[[File:NH-Wooden_toolbox.png|50px|center]]
+|4x {{NH-Softwood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Bamboo candleholder]]
+|[[File:NH-Bamboo candle holder.png|centre|thumb|50x50px]]
+|3x {{NH-Bamboo piece}}<br />2x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Villager|Island resident]]
+|880 Bells
+|}
+
+=== [[Wall]]-mounted ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Size
+!Obtained From
+! data-sort-type="number" | Sell Price
+|-
+|[[Bamboo wall decoration]]
+|[[File:NH-Bamboo_wall_decoration.png|50px|center]]
+|1x {{NH-Bamboo piece}}
+|0.5 x 1.0
+|[[Message in a bottle]]
+|
+|-
+|[[Bone doorplate]]
+|[[File:NH-Bone doorplate.png|centre|thumb|50x50px]]
+|3x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|
+|-
+|[[Cherry Lamp]]
+|[[File:NH-Cherry_lamp.png|50px|center]]
+|10x [[Fruit|cherry]]<br />2x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (if native fruit is cherries)
+|
+|-
+|[[Cosmos wreath]]
+|[[File:NH-Cosmos_wreath.png|50px|center]]
+|3x [[Flower#Cosmos|yellow cosmos]]<br />3x [[Flower#Cosmos|white cosmos]]<br />3x [[Flower#Cosmos|red cosmos]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if [[Flower|flowers]] on top of the [[player]]'s island are cosmos
+|
+|-
+|[[Crest doorplate]]
+|[[File:NH-Crest doorplate.png|centre|thumb|50x50px]]
+|3x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Floral swag]]
+|[[File:NH-Floral_swag.png|50px|center]]
+|10x {{NH-Clump of weeds}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Fossil doorplate]]
+|[[File:NH-Fossil doorplate.png|centre|thumb|50x50px]]
+|1x [[fossil]]<br />2x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|
+|-
+|[[Hanging terrarium]]
+|
+|12x {{NH-Clump of weeds}}4x<br />{{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Island resident]]
+|3,240 Bells
+|-
+|[[Hyacinth wreath]]
+|
+|3x [[white hyacinths]]<br />3x [[red hyacinths]]<br />3x [[yellow hyacinths]]
+|
+|
+|
+|-
+|[[Iron wall lamp]]
+|[[File:NH-Iron wall lamp.png|50px|center]]
+|4x {{NH-Iron nugget}}<br />2x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Wildest Dreams DIY]]
+|3,400 Bells
+|-
+|[[Ironwood clock]]
+|[[File:NH-Ironwood_clock.png|50px|center]]
+|2x {{NH-Wood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Key holder]]
+|[[File:NH-Key_holder.png|50px|center]]
+|3x {{NH-Wood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|1,110 Bells
+|-
+|[[Lily wreath]]
+|[[File:NH-Lily wreath.png|centre|thumb|50x50px]]
+|3x [[flower#lily|white lilies]]<br />3x [[flower#lily|red lilies]]<br />3x [[flower#lily|yellow lilies]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if [[Flower|flowers]] on top of the [[player]]'s island are lilies
+|
+|-
+|[[Mum wreath]]
+|[[File:NH-Mum_wreath.png|50px|center]]
+|3x [[Flower#mums|white mums]]<br />3x [[Flower#mums|yellow mums]]<br />3x [[Flower#mums|red mums]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Orange wall-mounted clock]]
+|[[File:NH-Orange_wall-mounted_clock.png|50px|center]]
+|10x [[orange]]<br />2x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] (if native fruit is oranges)
+|
+|-
+|[[Pansy wreath]]
+|[[File:NH-Pansy wreath.png|centre|thumb|50x50px]]
+|3x [[flower#pansy|yellow pansies]]<br />3x [[flower#pansy|white pansies]]<br />3x [[flower#pansy|red pansies]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if [[Flower|flowers]] on top of the [[player]]'s island are pansies
+|720 Bells
+|-
+|[[Potted ivy]]
+|[[File:NH-Potted ivy.png|50px|center]]
+|
+5x {{NH-Clump of weeds}}<br />5x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|A [[villager]] after being [[bee#sting|stung]]
+|1,100 [[Bells]]
+|-
+|[[Rose wreath]]
+|[[File:NH-Rose wreath.png|50px|center]]
+|3x [[flower#rose|red roses]]<br />3x [[flower#rose|white roses]]<br />3x [[flower#roses|yellow roses]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|
+|-
+|[[Tree branch wreath]]
+|[[File:NH Tree branch wreath.png|centre|thumb|50x50px]]
+|x10 {{NH-Tree branch}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|
+|-
+|[[Windflower wreath]]
+|[[File:NH-Windflower_wreath.png|50px|center]]
+|3x [[flower#windflower|red windflowers]]<br />3x [[flower#windflower|white windflowers]]<br />3x [[flower#windflower|orange windflowers]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Tom Nook]] after receiving first three housing kits, if [[Flower|flowers]] on top of the [[player]]'s island are windflowers
+|720 Bells
+|-
+|[[Wooden-block wall clock]]
+|[[File:NH-Wooden-block_wall_clock.png|50px|center]]
+|1x {{NH-Furniture icon}}[[wooden-block toy]]<br />2x {{NH-Softwood}}<br />1x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|}
+
+=== Wallpaper/Floors/Rugs ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Obtained From
+! data-sort-type="number" | Sell Price
+|-
+|[[Steel flooring]]
+|[[File:NH-Steel_flooring.png|50px|center]]
+|7x {{NH-Iron nugget}}
+|[[Message in a bottle]]
+|5,250 Bells
+|-
+|[[Brown herringbone wall]]
+|[[File:NH-Brown_herringbone_wall.png|50px|center]]
+|15x {{NH-Softwood}}
+|[[Message in a bottle]]
+|
+|-
+|[[Garbage-heap wall]]
+|[[File:NH-Garbage-heap_wall.png|50px|center]]
+|2x [[Trash#Empty_Can|empty can]]<br />2x [[Trash#Boot|boot]]<br />2x [[Trash#Tire|old tire]]
+|Fishing up [[trash]]
+|
+|-
+|[[Woodland wall]]
+|[[File:NH-Woodland_wall.png|50px|center]]
+|15x {{NH-Clump of weeds}}<br />9x {{NH-Softwood}}
+|
+|
+|-
+|[[Bamboo-grove wall]]
+|[[File:NH-Bamboo-grove_wall.png|50px|center]]
+|7x {{NH-Young spring bamboo}}<br />3x [[bamboo#shoot|bamboo shoot]]
+|[[Balloon]]
+|4,300 Bells
+|-
+|[[Light bamboo rug]]
+|[[File:NH-Light_bamboo_rug.png|50px|center]]
+|6x {{NH-Young spring bamboo}}
+|[[Balloon]]
+|2,400 Bells
+|-
+|[[Modern wood wall]]
+|[[File:NH-Modern_wood_wall.png|50px|center]]
+|5x {{NH-Wood}}<br />5x {{NH-Softwood}}<br />5x {{NH-Hardwood}}
+|
+|
+|-
+|[[Stone wall]]
+|[[File:NH-Dtone_wall.png|50px|center]]
+|10x {{NH-Stone}}
+|
+|
+|-
+|[[Shell rug]]
+|[[File:NH-Shell_rug.png|50px|center]]
+|3x [[giant clam]]
+|
+|
+|-
+|[[Wooden-mosiac wall]]
+|[[File:NH-Wooden-mosiac_wall.png|50px|center]]
+|15x {{NH-Wood}}
+|[[Villager|Island resident]]
+|
+|-
+|[[Sandy-beach flooring]]
+|[[File:NH-Sandy-beach_flooring.png|50px|center]]
+|1x [[sea snail]]<br />1x [[venus comb]]<br />1x [[sand dollar]]<br />1x [[coral]]<br />1x [[giant clam]]<br />1x [[cowrie]]
+|[[Villager|Island resident]]
+|
+|-
+|[[Jungle wall]]
+|[[File:NH-Jungle_wall.png|50px|center]]
+|15x {{NH-Clump of weeds}}<br />3x {{NH-Wood}}<br />3x {{NH-Hardwood}}<br />3x {{NH-Softwood}}
+|[[Balloon]]
+|
+|-
+|[[Garbage-heap flooring]]
+|[[File:NH-Garbage-heap_flooring.png|50px|center]]
+|2x [[Trash#Empty Can|empty can]]<br />2x [[Trash#Boot|boot]]<br />2x [[Trash|old tire]]
+|Fishing up [[trash]]
+|
+|-
+|[[Backyard lawn]]
+|[[File:NH-Backyard_lawn.png|50px|center]]
+|30x {{NH-Clump of weeds}}
+|[[Villager|Island resident]]
+|600 Bells
+|-
+|[[Apple wall]]
+|[[File:NH-Apple_wall.png|50px|center]]
+|30x [[apple]]
+|[[Message in a bottle]]
+|
+|-
+|[[Basement flooring]]
+|
+|10x {{NH-Stone}}
+|[[Villager|Island resident]]
+|
+|}
+
+=== Accessories ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Size
+!Obtained From
+! data-sort-type="number" | Sell Price
+|-
+|[[Basket pack]]
+|[[File:NH-Bamboo pack.png|50px|center]]
+|6x {{NH-Young spring bamboo}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|2,400 Bells
+|-
+|[[Cherry-blossom pochette]]
+|[[File:NH-Cherry-blossom_pochette.png|50px|center]]
+|6x [[cherry-blossom petal]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Cosmos crown]]
+|[[File:NH-Cosmos crown.png|50px|center]]
+|2x [[flower#cosmos|red cosmos]]<br />2x [[flower#cosmos|yellow cosmos]]<br />3x [[flower#cosmos|white cosmos]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Cute rose crown]]
+|
+|3x [[Flower#Roses|pink roses]]<br />3x [[Flower#Roses|orange roses]]
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Leaf umbrella]]
+|[[File:NH-Leaf umbrella.png|50px|center]]
+|15x {{NH-Clump of weeds}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Villager|Island resident]]
+|300 Bells
+|-
+|[[Log pack]]
+|[[File:NH-Log pack.png|50px|center]]
+|3x {{NH-Wood}}<br />5x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
+|960 Bells
+|-
+|[[Pan flute]]
+|[[File:NH-Pan_flute.png|50px|center]]
+|7x {{NH-Young spring bamboo}}
+|[[File:NH1.0x1.0sq.jpg|thumb|31x31px]]
+|[[Balloon]]
+|2,800 Bells
+|-
+|[[Pansy crown]]
+|[[File:NH-Pansy crown.png|50px|center]]
+|2x [[flower#pansies|red pansies]]<br />2x [[flower#pansies|yellow pansies]]<br />2x [[flower#pansies|white pansies]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|-
+|[[Recycled boots]]
+|[[File:NH-Recycled boots.png|50px|center]]
+|2x [[Trash|boot]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Fishing up a [[Trash|boot]]
+|40 Bells
+|-
+|[[Rose crown]]
+|[[File:NH-Rose crown.png|50px|center]]
+|2x [[flower#roses|red roses]]<br />2x [[flower#roses|yellow roses]]<br />2x [[flower#roses|white roses]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|
+|-
+|[[Straw umbrella hat]]
+|[[File:NH-Straw umbrella hat.png|50px|center]]
+|10x {{NH-Clump of weeds}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|200 Bells
+|-
+|[[Tulip crown]]
+|[[File:NH-Tulip crown.png|50px|center]]
+|2x [[flower#tulips|red tulips]]<br />2x [[flower#tulips|yellow tulips]]<br />1x [[flower#tulips|white tulips]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Message in a bottle]]
+|
+|
+|}
+
+=== Other ===
+{| class="article-table sortable"
+!Recipe Name
+!Image
+!Materials Needed
+!Size
+!Obtained From
+! data-sort-type="currency" | Sell Price
+|-
+|[[Medicine]]
+|[[File:NH-Medicine.png|centre|thumb|50x50px]]
+|1x [[Beehive|wasp nest]]<br />3x {{NH-Clump of weeds}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|A [[villager]] after being [[bee#sting|stung]]
+|100 Bells
+|-
+|[[Fish bait (New Horizons)|Fish bait]]
+|[[File:NH-Fish bait.png|centre|thumb|50x50px]]
+|1x [[manila clam]]
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Digging up a [[manila clam]]
+|200 Bells
+|-
+|[[Ocarina]]
+|[[File:NH-Ocarina.png|50px|center]]
+|5x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|
+|1,000 Bells
+|-
+|[[Garden rock]]
+|[[File:NH-Garden_rock.png|50px|center]]
+|15x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|Popping [[Balloon]]s<br />[[Message in a bottle]]
+|
+|-
+|[[Fences (New Horizons)|Bamboo lattice fence]] x10
+|[[File:NH-bamboo_lattice_fence.png|50px|center]]
+|6x {{NH-Bamboo piece}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Barbed-wire fence]] x10
+|[[File:NH-Barbed-wire_fence.png|50px|center]]
+|4x {{NH-Hardwood}}<br />2x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Brick Fence]] x10
+|[[File:NH-Brick_fence.png|50px|center]]
+|6x {{NH-Clay}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Corral fence]] x10
+|[[File:NH-Corral_fence.png|50px|center]]
+|6x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Country fence]] x10
+|[[File:NH-Country_fence.png|50px|center]]
+|6x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Imperial fence]] x10
+|[[File:NH-Imperial_fence.png|50px|center]]
+|6x {{NH-Wood}}<br />4x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|1,200 Bells (per 10)
+|-
+|[[Fences (New Horizons)|Iron fence]] x10
+|[[File:NH-Iron_fence.png|50px|center]]
+|6x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|4,500 Bells (per 10)
+|-
+|[[Fences (New Horizons)|Iron-and-stone fence]] x10
+|[[File:NH-Iron-and-stone_fence.png|50px|center]]
+|6x {{NH-Stone}}<br />3x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Lattice fence]] x10
+|[[File:NH-Lattice fence.png|centre|thumb|50x50px]]
+|8x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Rope Fence]] x10
+|[[File:NH-Rope_fence.png|50px|center]]
+|4x {{NH-Iron nugget}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Simple wooden fence]] x10
+|[[File:NH-Simple_wooden_fence.png|50px|center]]
+|6x {{NH-Softwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|72 Bells (each)
+|-
+|[[Fences (New Horizons)|Spiky fence]] x10
+|[[File:NH-Spiky_fence.png|50px|center]]
+|8x {{NH-Hardwood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|960 Bells (per 10)
+|-
+|[[Fences (New Horizons)|Stone fence]] x10
+|[[File:NH-Stone fence.png|centre|thumb|50x50px]]
+|4x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|60 Bells (each)
+|-
+|[[Fences (New Horizons)|Straw fence]] x10
+|[[File:NH-Straw_fence.png|50px|center]]
+|10x {{NH-Clump of weeds}}<br />3x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Vertical-board fence]] x10
+|[[File:NH-Vertical-board_fence.png|50px|center]]
+|8x {{NH-Wood}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|
+|-
+|[[Fences (New Horizons)|Zen fence]] x10
+|[[File:NH-Zen fence.png|centre|thumb|50x50px]]
+|3x {{NH-Iron nugget}}<br />3x {{NH-Clay}}<br />3x {{NH-Stone}}
+|[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Nook Stop]] (1,000 [[Nook Miles]])
+|330 Bells (each)
+|}

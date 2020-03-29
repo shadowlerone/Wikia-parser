@@ -1,0 +1,20 @@
+
+{{TableContentBugs|type=bug
+| [[Name]]
+| [[image]
+| Price
+| Habitat
+| Time
+| Jan
+| Feb
+| Mar
+| Apr
+| Mai
+| Jun
+| Jul
+| Aug
+| Sep
+| Oct
+| Nov
+| Dec
+}}

@@ -1,0 +1,20 @@
+{{TableContent|type=fish
+| [[Bitterling]]
+| [[File: Bitterling HHD Icon.png]]
+| 900
+| River
+| 1
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}

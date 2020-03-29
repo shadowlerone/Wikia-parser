@@ -1,0 +1,1681 @@
+{{TableContent|type=fish
+| [[Bitterling]]
+| [[File: Bitterling HHD Icon.png]]
+| 900
+| River
+| 1
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Pale chub]]
+| [[File: Pale Chub HHD Icon.png]]
+| 200
+| River
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+
+{{TableContent|type=fish
+| [[Crucian carp]]
+| [[File: Crucian Carp HHD Icon.png]]
+| 160
+| River
+| 2
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Dace]]
+| [[File: Dace HHD Icon.png]]
+| 240
+| River
+| 3
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Carp]]
+| [[File: Carp HHD Icon.png]]
+| 300
+| Pond
+| 4
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Koi]]
+| [[File: Koi HHD Icon.png]]
+| 4,000
+| Pond
+| 4
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Goldfish]]
+| [[File: Goldfish HHD Icon.png]]
+| 1,300
+| Pond
+| 1
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Pop-eyed Goldfish]]
+| [[File: Popeyed Goldfish HHD Icon.png]]
+| 1,300
+| Pond
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Ranchu Goldfish]]
+| [[File:Ranchu Goldfish NH Icon.png]]
+| 4,500
+| Pond
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Killifish]]
+| [[File:Killifish HHD Icon.png]]
+| ?
+| Pond
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Crawfish]]
+| [[File: Crawfish HHD Icon.png]]
+| 200
+| Pond
+| 2
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Soft-shelled Turtle]]
+| [[File:Soft-Shelled Turtle HHD Icon.png]]
+| 3,750
+| River
+| 4
+| <small>4 PM - 9 AM</small>
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Snapping Turtle]]
+| [[File:Snapping Turtle NH Icon.png]]
+| 5,000
+| River
+| 5
+| <small>9 PM - 4 AM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Tadpole]]
+| [[File: Tadpole HHD Icon.png]]
+| 100
+| Pond
+| 1
+| <small>All day</small>
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Frog]]
+| [[File:Frog HHD Icon.png]]
+| 120
+| Pond
+| 2
+| <small>All day</small>
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Freshwater Goby]]
+| [[File: Freshwater Goby HHD Icon.png]]
+| 400
+| River
+| 2
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Loach]]
+| [[File: Loach HHD Icon.png]]
+| 400
+| River
+| 2
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| -
+}}
+
+{{TableContent|type=fish
+| [[Catfish]]
+| [[File:Catfish HHD Icon.png]]
+| 800
+| Pond
+| 4
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Giant snakehead]]
+| [[File:Giant Snakehead HHD Icon.png]]
+| 5500
+| Pond
+| 5
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Bluegill]]
+| [[File: Bluegill HHD Icon.png]]
+| 180
+| River
+| 2
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Yellow perch]]
+| [[File: Yellow Perch HHD Icon.png]]
+| 300
+| River
+| 3
+| <small>All day</small>
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Black bass]]
+| [[File: Black Bass HHD Icon.png]]
+| 400
+| River
+| 4
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Tilapia]]
+| [[File:Tilapia NH Icon.png]]
+| 800
+| River
+| 3
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Pike]]
+| [[File:Pike HHD Icon.png]]
+| 1,800
+| River
+| 5
+| <small>All day</small>
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Pond smelt]]
+| [[File:Pond Smelt HHD Icon.png]]
+| 500
+| River
+| 2
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Sweetfish]]
+| [[File: Sweetfish HHD Icon.png]]
+| 900
+| River
+| 3
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Cherry Salmon]]
+| [[File: Cherry Salmon HHD Icon.png]]
+| 1,000
+| River (Clifftop)  Pond
+| 3
+| <small>4 PM - 9 AM</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Char]]
+| [[File:Char HHD Icon.png]]
+| 3,800
+| River (Clifftop) Pond
+| 3
+| <small>4 PM - 9 AM</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Golden Trout]]
+| [[File:Golden Trout NH Icon.png]]
+| 15,000
+| River (Clifftop)
+| 4
+| <small>4 PM - 9 AM</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| -
+}} 
+
+{{TableContent|type=fish
+| [[Stringfish]]
+| [[File:Stringfish HHD Icon.png]]
+| 15,000
+| River (Clifftop)
+| 6
+| <small>4 PM - 9 AM</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Salmon]]
+| [[File:Salmon HHD Icon.png]]
+| 700
+| River (Mouth)
+| 4
+| <small>All day</small>
+| -
+| -
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[King Salmon]]
+| [[File:King Salmon HHD Icon.png]]
+| 1,800
+| River (Mouth)
+| 6
+| <small>All day</small>
+| -
+| -
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Mitten Crab]]
+| [[File:Mitten Crab HHD Icon.png]]
+| 2,000
+| River
+| 2
+| <small>4 PM - 9 AM</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Guppy]]
+| [[File:Guppy HHD Icon.png]]
+| 1,300
+| River
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Nibble Fish]]
+| [[File:Nibble Fish HHD Icon.png]]
+| 1,500
+| River
+| 2
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Angelfish]]
+| [[File:Angelfish HHD Icon.png]]
+| 3,000
+| River
+| 2
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Betta]]
+| [[File:Betta NH Icon.png]]
+| 2,500
+| River
+| 2
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Neon tetra]]
+| [[File:Neon Tetra HHD Icon.png]]
+| 500
+| River
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+
+{{TableContent|type=fish
+| [[Rainbowfish]]
+| [[File:Rainbowfish NH Icon.png]]
+| 800
+| River
+| 1
+| <small>9 AM - 4 PM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Piranha]]
+| [[File:Piranha HHD Icon.png]]
+| 2,500
+| River
+| 2
+| <small>9 AM - 4 PM & 9 PM - 4 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Arowana]]
+| [[File:Arowana HHD Icon.png]]
+| 10,000
+| River
+| 4
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Dorado]]
+| [[File:Dorado HHD Icon.png]]
+| 15,000
+| River
+| 5
+| <small>4 AM - 9 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Gar]]
+| [[File:Gar HHD Icon.png]]
+| 6,000
+| Pond
+| 6
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Arapaima]]
+| [[File:Arapaima HHD Icon.png]]
+| 10,000
+| River
+| 6
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Saddled Bichir]]
+| [[File:Saddled Bichir HHD Icon.png]]
+| 4,000
+| River
+| 4
+| <small>9 PM - 4 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Sturgeon]]
+| [[File:Sturgeon HHD Icon.png]]
+| 10,000
+| River (Mouth)
+| 6
+| <small>All day</small>
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Sea butterfly]]
+| [[File:Sea Butterfly HHD Icon.png]]
+| 1,000
+| Sea
+| 1
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Seahorse]]
+| [[File:Seahorse (New Leaf icon).PNG]]
+| 1,100
+| Sea
+| 1
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Clownfish]]
+| [[File:Clownfish HHD Icon.png]]
+| 650
+| Sea
+| 1
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Surgeonfish]]
+| [[File:Surgeonfish HHD Icon.png]]
+| 1,000
+| Sea
+| 2
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Butterfly fish]]
+| [[File:Butterfly Fish (New Leaf icon).PNG]]
+| 1,000
+| Sea
+| 2
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Napoleonfish]]
+| [[File:Napoleonfish HHD Icon.png]]
+| 10,000
+| Sea
+| 6
+| <small>4 AM - 9 PM</small>
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Zebra turkeyfish]]
+| [[File:Zebra Turkeyfish HHD Icon.png]]
+| 500
+| Sea
+| 3
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Blowfish]]
+| [[File:Blowfish HHD Icon.png]]
+| 5000
+| Sea
+| 3
+| <small>9 PM - 4 AM</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Puffer fish]]
+| [[File:Puffer Fish HHD Icon.png]]
+| 250
+| Sea
+| 3
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Anchovy]]
+| [[File:Anchovy NH Icon.png]]
+| 200
+| Sea
+| 2
+| <small>4 AM - 9 PM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Horse mackerel]]
+| [[File:Horse Mackerel HHD Icon.png]]
+| 150
+| Sea
+| 2
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Barred knifejaw]]
+| [[File:Barred Knifejaw HHD Icon.png]]
+| 5,000
+| Sea
+| 3
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Sea bass]]
+| [[File:Sea Bass HHD Icon.png]]
+| 400
+| Sea
+| 5
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Red snapper]]
+| [[File:Red Snapper HHD Icon.png]]
+| 3,000
+| Sea
+| 3
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Dab]]
+| [[File:Dab HHD Icon.png]]
+| 300
+| Sea
+| 3
+| <small>All day</small>
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Olive flounder]]
+| [[File:Olive Flounder HHD Icon.png]]
+| 800
+| Sea
+| 4
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Squid]]
+| [[File:Squid HHD Icon.png]]
+| 500
+| Sea
+| 3
+| <small>All day</small>
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Moray eel]]
+| [[File:Moray Eel HHD Icon.png]]
+| 2,000
+| Sea
+| Narrow
+| <small>All day</small>
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Ribbon eel]]
+| [[File:Ribbon Eel HHD Icon.png]]
+| 600
+| Sea
+| Narrow
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Tuna]]
+| [[File:Tuna HHD Icon.png]]
+| 7,000
+| Pier
+| 6
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Blue marlin]]
+| [[File:Blue Marlin HHD Icon.png]]
+| 10,000
+| Pier
+| 6
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Giant trevally]]
+| [[File:Giant Trevally HHD Icon.png]]
+| 4,500
+| Pier
+| 5
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Mahi-mahi]]
+| [[File:Mahi-Mahi NH Icon.png]]
+| 6,000
+| Pier
+| 5
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Ocean sunfish]]
+| [[File:Ocean Sunfish HHD Icon.png]]
+| 4,000
+| Sea
+| 6 (Fin)
+| <small>4 AM - 9 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Ray]]
+| [[File:Ray HHD Icon.png]]
+| 3,000
+| Sea
+| 5
+| <small>4 AM - 9 PM</small>
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Saw shark]]
+| [[File:Saw Shark HHD Icon.png]]
+| 12,000
+| Sea
+| 6 (Fin)
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Hammerhead shark]]
+| [[File:Hammerhead Shark HHD Icon.png]]
+| 8,000
+| Sea
+| 6 (Fin)
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Shark|Great white shark]]
+| [[File:Shark HHD Icon.png]]
+| 15,000
+| Sea
+| 6 (Fin)
+| <small>4 PM - 9 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Whale shark]]
+| [[File:Whale Shark HHD Icon.png]]
+| 13,000
+| Sea
+| 6 (Fin)
+| <small>All Day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Suckerfish]]
+| [[File:Suckerfish NH Icon.png]]
+| 1,500
+| Sea
+| 6 (Fin)
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContent|type=fish
+| [[Football fish]]
+| [[File:Football Fish HHD Icon.png]]
+| 2,500
+| Sea
+| 4
+| <small>4 PM - 9 AM</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+}}
+
+{{TableContent|type=fish
+| [[Oarfish]]
+| [[File:Oarfish HHD Icon.png]]
+| 9,000
+| Sea
+| 6
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+}}
+
+{{TableContent|type=fish
+| [[Barreleye]]
+| [[File: Barreleye NH Icon.png]]
+| 15,000
+| Sea
+| 2
+| <small>9 PM - 4 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContent|type=fish
+| [[Coelacanth]]
+| [[File: Coelacanth HHD Icon.png]]
+| 15,000
+| Sea (Rainy Days)
+| 6
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}

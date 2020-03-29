@@ -1,0 +1,1601 @@
+{{TableContentBugs|type=bug
+| [[Common butterfly]]
+| [[File:Common Butterfly HHD Icon.png]]
+| 160
+| Flying
+| <small>4 AM - 7 PM</small>
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Yellow butterfly]]
+| [[File:Yellow Butterfly HHD Icon.png]]
+| 160
+| Flying
+| <small>4 AM - 7 PM</small>
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Tiger butterfly]]
+| [[File:Tiger Butterfly HHD Icon.png]]
+| 240
+| Flying
+| <small>4 AM - 7 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Peacock butterfly]]
+| [[File:Peacock Butterfly HHD Icon.png]]
+| 2,500
+| Flying by rare flowers
+| <small>4 AM - 7 PM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Common bluebottle]]
+| [[File:Common Bluebottle NH Icon.PNG]]
+| 300
+| Flying
+| <small>?</small>
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Paper kite butterfly]]
+| [[File:Paper Kite Butterfly NH Icon.PNG]]
+| 1,000
+| Flying
+| <small>8 AM - 7 PM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Great purple emperor]]
+| [[File:Great Purple Emperor NH Icon.PNG]]
+| 3,000
+| Flying
+| <small>4 AM - 7 PM</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Monarch butterfly]]
+| [[File:Monarch Butterfly HHD Icon.png]]
+| 140
+| Flying
+| <small>4 AM - 5 PM</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Emperor butterfly]]
+| [[File:Emperor Butterfly HHD Icon.png]]
+| 4000
+| Flying
+| <small>5 PM - 8 AM</small>
+| +
+| +
+| +
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Agrias butterfly]]
+| [[File:Agrias_Butterfly_HHD.png]]
+| 3000
+| Flying
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Rajah Brooke's birdwing]]
+| [[File:Rajahbrookes.png|thumb|center|63px]]
+| 2500
+| Flying
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| -
+| -
+| +
+| +
+| +
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Queen Alexandra's birdwing]] 
+| [[File:Queenalex.png|thumb|center|55px]]
+| 4000
+| Flying
+| <small>8 AM - 4 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Moth]]
+| [[File:Moth HHD Icon.png]]
+| 130
+| Flying by light
+| <small>7 PM - 4 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Atlas moth]]
+| [[File:Atlasmoththumb.png|thumb|center|62px]]
+| 3000
+| On Trees
+| <small>7 PM - 4 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Madagascan sunset moth]]
+| [[File:Madagascan Sunset Moth NH Icon.PNG]]
+| 2500
+| Flying
+| <small>8 AM - 4 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Long locust]]
+| [[File:Long Locust HHD Icon.png]]
+| 200
+| Hopping
+| <small>8 AM - 7 PM</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Migratory locust]]
+| [[File:Migratory Locust HHD Icon.png]]
+| 600
+| Hopping
+| <small>8 AM - 7 PM</small>
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Rice grasshopper]]
+| [[File:Rice Grasshopper HHD Icon.png]]
+| 160
+| Hopping
+| <small>8 AM - 7 PM</small>
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Grasshopper]]
+| [[File:Grasshopper HHD Icon.png]]
+| 160
+| Hopping
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Cricket]]
+| [[File:Cricket HHD Icon.png]]
+| 130
+| Hopping
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Bell cricket]]
+| [[File:Bell Cricket HHD Icon.png]]
+| 430
+| Hopping
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Mantis]]
+| [[File:Mantis HHD Icon.png]]
+| 430
+| On Flowers
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Orchid mantis]]
+| [[File:Orchid Mantis HHD Icon.png]]
+| 2400
+| On flowers (White)
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Honeybee]]
+| [[File:Honeybee HHD Icon.png]]
+| 200
+| Flying near flowers
+| <small>8 AM - 5 PM</small>
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Wasp]]
+| [[File:Bee HHD Icon.png]]
+| 2,500
+| Shake tree
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Brown Cicada]]
+| [[File:Brown_Cicada_HHD.png|thumb|center|60px]]
+| ?
+| On Trees
+| <small>8 AM - 5 PM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+
+{{TableContentBugs|type=bug
+| [[Robust Cicada]]
+| [[File:Robust_Cicada_HHD.png|thumb|center|60px]]
+| ?
+| On Trees
+| <small>8 AM - 5 PM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+
+{{TableContentBugs|type=bug
+| [[Giant Cicada]]
+| [[File:Giant_Cicada_HHD.png|thumb|center|60px]]
+| ?
+| On Trees
+| <small>8 AM - 5 PM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Walker cicada]]
+| [[File:Walker Cicada HHD Icon.png]]
+| 400
+| On Trees
+| <small>8 AM - 5 PM</small>
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Evening Cicada]]
+| [[File:Evening_Cicada_HHD.png|thumb|center|60px]]
+| ?
+| On Trees
+| <small>4 AM - 8 AM & 4 PM - 7 PM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Cicada shell]]
+| [[File:Cicada Shell HHD Icon.png]]
+| ?
+| On Trees
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Red dragonfly]]
+| [[File:Red Dragonfly HHD Icon.png]]
+| 180
+| Flying
+| <small>8 AM - 7 PM</small>
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Darner dragonfly]]
+| [[File:Darner Dragonfly HHD Icon.png]]
+| 230
+| Flying
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Banded dragonfly]]
+| [[File:Banded Dragonfly HHD Icon.png]]
+| 4,500
+| Flying
+| <small>8 AM - 5 PM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Damselfly]]
+| Unknown
+| ?
+| Flying
+| <small>All day</small>
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Firefly]]
+| Unknown
+| ?
+| Flying
+| <small>7 PM - 4 AM</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Mole cricket]]
+| [[File:Mole Cricket HHD Icon.png]]
+| 500
+| Underground
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Pondskater]]
+| [[File:Pondskater HHD Icon.png]]
+| 130
+| On Ponds and Rivers
+| <small>8 AM - 7 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Diving beetle]]
+| [[File:Diving Beetle HHD Icon.png]]
+| 800
+| On Ponds and Rivers
+| <small>8 AM - 7 PM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Giant water bug]]
+| [[File:Giant Water Bug NH Icon.PNG]]
+| 2,000
+| On Ponds and Rivers
+| <small>7 PM - 8 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Stinkbug]]
+| [[File:Stinkbug (New Leaf icon).PNG]]
+| 120
+| On flowers
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Man-faced stink bug]]
+| [[File:Man-faced Stink Bug NH Icon.PNG]]
+| 1,000
+| On flowers
+| <small>7 PM - 8 AM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Ladybug]]
+| [[File:Ladybug HHD Icon.png]]
+| 200
+| On flowers
+| <small>8 AM - 5 PM</small>
+| -
+| -
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Tiger beetle]]
+| [[File:Tiger Beetle HHD Icon.png]]
+| 1,500
+| On the ground
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Jewel beetle]]
+| Unknown
+| 2,400
+| On Tree Stumps
+| <small>All day</small>
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Violin beetle]]
+| [[File:Violinbeetle.png|thumb|center|60px]]
+| 450
+| On a tree stump
+| <small>All day</small>
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Citrus long-horned beetle]]
+| [[File:Citrus Long-horned Beetle NH icon.png]]
+| 350
+| On a tree stump
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Rosalia batesi beetle]]
+| [[File:Rosalia Batesi Beetle NH Icon.PNG]]
+| 3,000
+| On a tree stump
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Blue weevil beetle]]
+| [[File:Blue Weevil Beetle NH Icon.PNG]]
+| ?
+| ?
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Dung beetle]]
+| Unknown
+| ?
+| On Ground (rolling snowballs)
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Earth-boring dung beetle]]
+| [[File:Earth-Boring Dung Beetle NH Icon.PNG]]
+| 300
+| On Ground
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Scarab beetle]]
+| Unknown
+| ?
+| On Tree
+| <small>11 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Drone beetle]]
+| [[File:Drone Beetle NH Icon.PNG]]
+| ?
+| On Tree
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Goliath beetle]]
+| Unknown
+| 8,000
+| On Trees (Palm)
+| <small>5 PM - 8 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Saw stag]]
+| Unknown
+| ?
+| On Trees
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Miyama stag]]
+| Unknown
+| ?
+| On Trees
+| <small>All day</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Giant stag]]
+| Unknown
+| ?
+| On Trees
+| <small>11 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Rainbow stag]]
+| Unknown
+| 6,000
+| On Trees
+| <small>7 PM - 8 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Cyclommatus stag]]
+| Unknown
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Golden stag]]
+| Unknown
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Giraffe stag]]
+| [[File:Giraffe Stag NH Icon.PNG]]
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Horned dynastid]]
+| Unknown
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Horned atlas]]
+| Unknown
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Horned elephant]]
+| Unknown
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Horned hercules]]
+| Unknown
+| ?
+| On Trees
+| <small>5 PM - 8 AM</small>
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Walking stick]]
+| Unknown
+| ?
+| Shaking Tree
+| <small>4 AM - 8 AM & 4 PM - 6 PM</small>
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Walking leaf]]
+| [[File:Walking Leaf HHD Icon.png]]
+| 600
+| Under Trees Disguised as Leafs
+| <small>All day</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+}}
+
+{{TableContentBugs|type=bug
+| [[Bagworm]]
+| [[File:Bagworm HHD Icon.png]]
+| 600
+| In trees
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Ant]]
+| [[File:Ant HHD Icon.png]]
+| ?
+| On rotten food
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Hermit crab]]
+| [[File:Hermit Crab HHD Icon.png]]
+| 1,000
+| Beach disguised as shells
+| <small>7 PM - 8 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Wharf roach]]
+| [[File:Wharf Roach HHD Icon.png]]
+| 200
+| On beach rocks
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Fly]]
+| Unknown
+| 60
+| On trash items
+| <small>All Day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Mosquito]]
+| [[File:Mosquito HHD Icon.png]]
+| 130
+| Flying
+| <small>5 PM - 4 AM</small>
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Flea]]
+| [[File:Flea HHD Icon.png]]
+| ?
+| Villager's Heads
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Snail]]
+| [[File:Snail HHD Icon.png]]
+| 250
+| On rocks (Rain)
+| <small>All day</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Pill bug]]
+| [[File:Pill Bug HHD Icon.png]]
+| 250
+| Hit a rock
+| <small>11 PM - 4 PM</small>
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Centipede]]
+| [[File:Centipede HHD Icon.png]]
+| 300
+| Hit a rock
+| <small>4 PM - 11 PM</small>
+| -
+| -
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Spider]]
+| [[File:Spider HHD Icon.png]]
+| 480
+| Shaking tree
+| <small>7 PM - 8 AM</small>
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Tarantula]]
+| [[File:Tarantula HHD Icon.png]]
+| 8,000
+| On the ground
+| <small>7 PM - 4 AM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
+
+{{TableContentBugs|type=bug
+| [[Scorpion]]
+| [[File:Scorpionnh.png|thumb|center|62px]]
+| 8000
+| On the ground
+| <small>7 PM - 4 AM</small>
+| +
+| +
+| +
+| +
+| -
+| -
+| -
+| -
+| -
+| -
+| +
+| +
+}}
