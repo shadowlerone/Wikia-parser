@@ -158,8 +158,8 @@
 |[[File:NH-Bamboo_wand.png|50px|center]]
 |6x {{NH-Young spring bamboo}}<br />3x [[star fragment]]
 |[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
+|[[Balloon]]
 |
-[[Balloon]]
 |}
 
 === Title Needed ===
@@ -187,10 +187,7 @@
 |-
 |[[Aries rocking chair]]
 |[[File:NH-Aries_rocking_chair.png|50px|center]]
-|3x [[star fragment]]
-|2x [[Aries star fragment]]
-|1x {{NH-Gold nugget}}
-|5x {{NH-Stone}}
+|3x [[star fragment]]<br />2x [[Aries star fragment]]<br />1x {{NH-Gold nugget}}<br />5x {{NH-Stone}}
 |[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
 |[[Celeste]]
 |
@@ -710,8 +707,7 @@
 |[[File:NH-Stone table.png|50px|center]]
 |8x {{NH-Stone}}
 |[[File:NH2.0x2.0sq.jpg|centre|thumb|31x31px]]
-|[[Tom Nook]] after receiving first three housing kits
-[[Villager|Island resident]]
+|[[Tom Nook]] after receiving first three housing kits<br />[[Villager|Island resident]]
 |1,200 Bells
 |-
 |[[Stone tablet]]
@@ -1247,8 +1243,7 @@
 |-
 |[[Potted ivy]]
 |[[File:NH-Potted ivy.png|50px|center]]
-|
-5x {{NH-Clump of weeds}}<br />5x {{NH-Clay}}
+|5x {{NH-Clump of weeds}}<br />5x {{NH-Clay}}
 |[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
 |A [[villager]] after being [[bee#sting|stung]]
 |1,100 [[Bells]]
@@ -1478,7 +1473,6 @@
 |2x [[flower#tulips|red tulips]]<br />2x [[flower#tulips|yellow tulips]]<br />1x [[flower#tulips|white tulips]]
 |[[File:NH1.0x1.0sq.jpg|centre|thumb|31x31px]]
 |[[Message in a bottle]]
-|
 |
 |}
 

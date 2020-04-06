@@ -41,7 +41,8 @@ class Table(object):
 			try:
 				if not self.isHeader(i):
 					item.update({self.headers[key]: self.sanitize_item_string(i)})
-			except IndexError:
+			except IndexError as e:
+				# print(e.with_traceback())
 				if not i.startswith("|}"):
 					print(f"Error in Table {self.name}: No key {key} for {i}. Item: {item[self.headers[0]]}")
 			key += 1
@@ -68,9 +69,9 @@ def main(file) -> list:
 				adding = True
 			if line.startswith("|}"):
 				tmpTable = Table(tableList, nextTitle)
-				output.append(tmpTable.items)
+				output.extend(tmpTable.items)
 				tableList = ""
 				nextTitle = ""
 				adding = False
 	return output
-json.dump(main("table example.txt"), open("crafting.json", "w"))
+json.dump(main("inputs/table example.txt"), open("out/crafting.json", "w"))
